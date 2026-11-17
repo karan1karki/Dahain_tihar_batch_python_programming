@@ -1,0 +1,6 @@
+git init
+git add .
+git branch -M main
+git commit -m "<Message in past format>"
+git remote add origin <copied-link>
+git push -u origin main
