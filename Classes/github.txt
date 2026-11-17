@@ -1,6 +1,14 @@
+for New github file adding
 git init
 git add .
 git branch -M main
 git commit -m "<Message in past format>"
 git remote add origin <copied-link>
+git push -u origin main
+
+Thanks for learning python programming class
+for updating only in github
+git add.
+git branch -M main
+git commit -m "<Message>"
 git push -u origin main
