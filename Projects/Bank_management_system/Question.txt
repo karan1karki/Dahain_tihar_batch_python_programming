@@ -1,8 +1,0 @@
-Features
-- create a bank account
-- Deposite money
-- withdraw money
-- check their account details
-- Display account details
-- View transaction history
-- 4 OOPs --> Abstaract, Polimorphism

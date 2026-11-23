@@ -1,0 +1,38 @@
+[
+    {
+        "username": "a",
+        "type": "Credit",
+        "code": "xahvy41a",
+        "amount": 2000.0
+    },
+    {
+        "username": "a",
+        "type": "Credit",
+        "code": "0wai2sob",
+        "amount": 500.0
+    },
+    {
+        "username": "a",
+        "type": "Credit",
+        "code": "wvnzntwr",
+        "amount": 20000.0
+    },
+    {
+        "username": "a",
+        "type": "Credit",
+        "code": "b1o3z5xg",
+        "amount": 20000.0
+    },
+    {
+        "username": "a",
+        "type": "Credit",
+        "code": "n1zjphb1",
+        "amount": 500.0
+    },
+    {
+        "username": "a",
+        "type": "Debit",
+        "Code": "gpr0kf2q",
+        "amount": 15000.0
+    }
+]
